@@ -1,1 +1,4 @@
-# Chatting-application
+In the Chat Application in Java, we are going to make one-way client and server communication. So, the client sends a message to the server, and the server reads the message and prints it. Here, we will use two classes Socket and ServerSocket. The Socket class is used to communicate between the client and the server
+
+Socket programming is used to work with sockets which helps in making a network connection to the server. It works as a client-server method where the client sends the request to the server and the server responds to the client with the requested data.
+Java chat applications are developed using the java programming language. Chat applications allow users to communicate with each other that should be in real-time. Where the messages are getting exchanged in real-time. It can run multiple client-server chats easily. Chat applications can be used for various purposes such as connecting with friends and using the application for business inquiries.
